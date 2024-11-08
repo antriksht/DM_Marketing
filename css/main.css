@@ -415,9 +415,6 @@ button {
 }
 
 .navbar-brand {
-	position: absolute;
-	top: -60px;
-	left: 15px;
 	z-index: 99999;
 	padding: 0;
 	height: inherit;
